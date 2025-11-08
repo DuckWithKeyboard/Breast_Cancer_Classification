@@ -129,9 +129,7 @@ Breast_Cancer_Classification/
 ├── Notebooks/
 │   └── Train_CNN.ipynb
 │
-├── models/
-│   └── saved_weights/
-│
+│── cnn_fold9.weights.h5
 ├── README.md
 └── requirements.txt
 
